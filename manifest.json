@@ -1,0 +1,22 @@
+
+{
+  "name": "MAA Copilot Modifier",
+  "short_name": "MAA Tool",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "MAA 오퍼레이터 JSON 수정 도구 (오프라인 지원)",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Yuanyan3060/Arknights-Bot-Resource@main/avatar/char_002_amiya.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/Yuanyan3060/Arknights-Bot-Resource@main/avatar/char_002_amiya.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}

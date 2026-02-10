@@ -1,0 +1,5 @@
+{
+  "name": "maa modifier",
+  "description": "Gemini를 활용하여 MaaAssistantArknights (MAA) 코파일럿 JSON 전략 파일의 오퍼레이터를 쉽게 수정하고 대체 제안을 받을 수 있는 도구입니다.",
+  "requestFramePermissions": []
+}
